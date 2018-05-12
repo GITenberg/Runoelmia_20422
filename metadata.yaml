@@ -1,0 +1,38 @@
+_repo: Runoelmia_20422
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ridderström, Knut Ferdinand
+    alias: Ridderstrom, Knut Ferdinand
+    birthdate: 1829
+    deathdate: 1897
+    gutenberg_agent_id: '9290'
+    url: http://www.gutenberg.org/2009/agents/9290
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '2007-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20422'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+title: Runoelmia
+url: http://www.gutenberg.org/ebooks/20422
